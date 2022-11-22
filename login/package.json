@@ -2,7 +2,7 @@
   "name": "insignia",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevensetiawan/insignia/issues"
+    "url": "https://github.com/stevensetiawan/deall/issues"
   },
-  "homepage": "https://github.com/stevensetiawan/insignia#readme",
+  "homepage": "https://github.com/stevensetiawan/deall#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-redis": "^6.1.3",
